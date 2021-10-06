@@ -36,7 +36,7 @@ export default function LazyLoading() {
       {/* Original resolution: 4032x3024 (4x3) */}
       {/* Original size: ~2.3mb */}
       <Image 
-        src="/mountains2.jpg" 
+        src="https://sherpas-uploads.s3.eu-west-3.amazonaws.com/Snapseed520582020--NaN_125_119_539.jpeg"
         alt="Mountains" 
         width={600} 
         height={450} 

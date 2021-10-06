@@ -3,6 +3,7 @@ import mountains1 from '../public/mountains1.jpg';
 import mountains2 from '../public/mountains2.jpg';
 import sunset1 from '../public/sunset1.jpg';
 import sunset2 from '../public/sunset2.jpg';
+import article1 from '../public/article1.png';
 
 export default function DefaultPlaceholderImage() {
   return (
@@ -10,7 +11,7 @@ export default function DefaultPlaceholderImage() {
       {/* Original resolution: 4032x3024 (4x3) */}
       {/* Original size: ~1.9mb */}
       <Image
-        src={sunset1} 
+        src={article1} 
         alt="Sunset" 
         width={600} 
         height={450} 
